@@ -1,4 +1,0 @@
-Total records parsed: 80
-Invalid records removed: 10
-Valid records after cleaning: 70
-Total Revenue: ₹3527808.0
